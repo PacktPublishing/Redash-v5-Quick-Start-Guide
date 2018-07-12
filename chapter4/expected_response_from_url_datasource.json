@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "created_date",
+      "type": "date",
+      "friendly_name": "created_date"
+    },
+    {
+      "name": "adv_uuid",
+      "type": "string",
+      "friendly_name": "advertiser_uuid"
+    },
+    {
+      "name": "cmp_cnt",
+      "type": "integer",
+      "friendly_name": "campaigns_count"
+    },
+    {
+      "name": "total_rev",
+      "type": "double",
+      "friendly_name": "total_revenue"
+    }
+  ],
+  "rows": [
+    {
+      "adv_uuid": "518ff4e6-80ab-11e8-adc0-fa7ae01bbebc",
+      "cmp_cnt": 50,
+      "total_rev": 100.2,
+      "created_date": "2018-05-30"
+    },
+    {
+      "adv_uuid": "9ac444e6-eeab-11e8-adc0-fa7ae981eebc",
+      "cmp_cnt": 2,
+      "total_rev": 300.0,
+      "created_date": "2018-05-31"
+    },
+    {
+      "adv_uuid": "518334e6-80ac-22e8-ebc0-fa9ae011bc12",
+      "cmp_cnt": 12,
+      "total_rev": 2600.5,
+      "created_date": "2018-02-01"
+    }
+  ]
+}
