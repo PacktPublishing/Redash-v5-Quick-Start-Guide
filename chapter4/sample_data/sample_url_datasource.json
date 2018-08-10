@@ -1,7 +1,7 @@
 {
   "columns": [
     {
-      "name": "date",
+      "name": "tweet_date",
       "type": "date",
       "friendly_name": "tweet_date"
     },
@@ -34,7 +34,7 @@
   "rows": [
     {
       "tweet_id": "9002802628180650803",
-      "num_shares": 408,
+      "num_retweets": 408,
       "num_likes": 531,
       "audience_reached": 123410,
       "hashtags": "#sports #tennis #wimbledon",
@@ -42,7 +42,7 @@
     },
     {
       "tweet_id": "9002802628180350801",
-      "num_shares": 12,
+      "num_retweets": 12,
       "num_likes": 33,
       "audience_reached": 9210,
       "hashtags": "#DIY",
@@ -50,7 +50,7 @@
     },
     {
       "tweet_id": "9002802628180655503",
-      "num_shares": 339,
+      "num_retweets": 339,
       "num_likes": 911,
       "audience_reached": 423410,
       "hashtags": "#statistics #cs #math",
@@ -58,7 +58,7 @@
     },
     {
       "tweet_id": "9002802482180650803",
-      "num_shares": 4,
+      "num_retweets": 4,
       "num_likes": 53,
       "audience_reached": 1210,
       "hashtags": "#consumer-electronics",
@@ -66,7 +66,7 @@
     },
     {
       "tweet_id": "9002802628180650803",
-      "num_shares": 48,
+      "num_retweets": 48,
       "num_likes": 131,
       "audience_reached": 12410,
       "hashtags": "#sports #tennis #wimbledon",
@@ -74,7 +74,7 @@
     },
     {
       "tweet_id": "9002802628180350801",
-      "num_shares": 72,
+      "num_retweets": 72,
       "num_likes": 83,
       "audience_reached": 19210,
       "hashtags": "#DIY",
@@ -82,7 +82,7 @@
     },
     {
       "tweet_id": "9002802628180655503",
-      "num_shares": 139,
+      "num_retweets": 139,
       "num_likes": 211,
       "audience_reached": 223410,
       "hashtags": "#statistics #cs #math",
@@ -90,7 +90,7 @@
     },
     {
       "tweet_id": "9002802482180650803",
-      "num_shares": 6,
+      "num_retweets": 6,
       "num_likes": 23,
       "audience_reached": 2210,
       "hashtags": "#consumer-electronics",
