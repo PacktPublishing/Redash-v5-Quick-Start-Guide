@@ -43,12 +43,56 @@
 
     },
     {
+       "stage1": "enter building",
+       "stage2": "enter first floor",
+       "stage3": "",
+       "stage4": "",
+       "stage5": "",
+       "value": 80
+
+    },
+    {
+       "stage1": "enter building",
+       "stage2": "enter first floor",
+       "stage3": "enter office 1a",
+       "stage4": "",
+       "stage5": "",
+       "value": 30
+    },
+    {
        "stage1": "enter first floor",
        "stage2": "",
        "stage3": "",
        "stage4": "",
        "stage5": "",
        "value": 80
+
+    },
+    {
+       "stage1": "enter first floor",
+       "stage2": "enter office 1a",
+       "stage3": "",
+       "stage4": "",
+       "stage5": "",
+       "value": 30
+
+    },
+    {
+       "stage1": "enter first floor",
+       "stage2": "enter office 1d",
+       "stage3": "",
+       "stage4": "",
+       "stage5": "",
+       "value": 10
+
+    },
+    {
+       "stage1": "enter first floor",
+       "stage2": "enter office 1a",
+       "stage3": "enter office 1f",
+       "stage4": "",
+       "stage5": "",
+       "value": 3
 
     },
     {
