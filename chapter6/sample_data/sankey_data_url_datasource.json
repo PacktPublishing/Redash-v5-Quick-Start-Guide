@@ -1,0 +1,46 @@
+{
+  "columns": [
+    {
+      "name": "stage1",
+      "type": "integer",
+      "friendly_name": "stage1"
+    },
+        {
+      "name": "stage2",
+      "type": "integer",
+      "friendly_name": "stage2"
+    },
+    {
+      "name": "stage3",
+      "type": "integer",
+      "friendly_name": "stage3"
+    },
+    {
+      "name": "stage4",
+      "type": "integer",
+      "friendly_name": "stage4"
+    },
+    {
+      "name": "stage5",
+      "type": "integer",
+      "friendly_name": "stage5"
+    },
+    {
+      "name": "value",
+      "type": "integer",
+      "friendly_name": "value"
+    },
+ 
+  ],
+  "rows": [
+    {
+       "stage1": 100,
+       "stage2": 80,
+       "stage3": 70,
+       "stage4": 30,
+       "stage5": 10,
+       "value": 1
+
+    }
+  ]
+}
