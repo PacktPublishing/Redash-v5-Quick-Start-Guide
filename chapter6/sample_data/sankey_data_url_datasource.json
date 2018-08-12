@@ -2,44 +2,62 @@
   "columns": [
     {
       "name": "stage1",
-      "type": "integer",
+      "type": "string",
       "friendly_name": "stage1"
     },
         {
       "name": "stage2",
-      "type": "integer",
+      "type": "string",
       "friendly_name": "stage2"
     },
     {
       "name": "stage3",
-      "type": "integer",
+      "type": "string",
       "friendly_name": "stage3"
     },
     {
       "name": "stage4",
-      "type": "integer",
+      "type": "string",
       "friendly_name": "stage4"
     },
     {
       "name": "stage5",
-      "type": "integer",
+      "type": "string",
       "friendly_name": "stage5"
     },
     {
       "name": "value",
-      "type": "integer",
+      "type": "string",
       "friendly_name": "value"
     }
  
   ],
   "rows": [
     {
-       "stage1": 100,
-       "stage2": 80,
-       "stage3": 70,
-       "stage4": 30,
-       "stage5": 10,
-       "value": 1
+       "stage1": "enter building",
+       "stage2": "",
+       "stage3": "",
+       "stage4": "",
+       "stage5": "",
+       "value": 100
+
+    },
+    {
+       "stage1": "enter first floor",
+       "stage2": "",
+       "stage3": "",
+       "stage4": "",
+       "stage5": "",
+       "value": 80
+
+    },
+    {
+       "stage1": "enter office 1a",
+       "stage2": "",
+       "stage3": "",
+       "stage4": "",
+       "stage5": "",
+       "value": 30
 
     }
   ]
