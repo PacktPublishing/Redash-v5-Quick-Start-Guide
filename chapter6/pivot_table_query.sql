@@ -1,0 +1,1 @@
+select distinct queries.name as "query_name", data_sources.name as "datasource_name", visualizations.type as "visualization_type", count(*) from visualizations join queries on visualizations.query_id = queries.id join data_sources on data_sources.id= queries.data_source_id group by 1,2,3 order by 4 desc
