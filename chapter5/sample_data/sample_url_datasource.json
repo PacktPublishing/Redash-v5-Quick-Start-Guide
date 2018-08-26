@@ -1,0 +1,56 @@
+{
+  "columns": [
+    {
+      "name": "type",
+      "type": "string",
+      "friendly_name": "Visualization Type"
+    },
+    {
+      "name": "count",
+      "type": "integer",
+      "friendly_name": "Count"
+    }
+  ],
+  "rows": [
+    {
+      "type": "BOXPLOT",
+      "count": 26
+    },
+    {
+      "type": "SANKEY",
+      "count": 85
+    },
+    {
+      "type": "WORD_CLOUD",
+      "count": 85
+    },
+    {
+      "type": "SUNBURST_SEQUENCE",
+      "count": 96
+    },
+    {
+      "type": "MAP",
+      "count": 128
+    },
+    {
+      "type": "COHORT",
+      "count": 150
+    },
+    {
+      "type": "COUNTER",
+      "count": 179
+    },
+    {
+      "type": "PIVOT",
+      "count": 187
+    },
+    {
+      "type": "CHART",
+      "count": 2287
+    },
+    {
+      "type": "TABLE",
+      "count": 7017
+    }
+  ]
+}
