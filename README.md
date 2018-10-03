@@ -4,7 +4,7 @@
 
 This is the code repository for Redash Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/redash-v5-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788996167), published by Packt.
 
-**Create and share interactive dashboards using Redash	**
+**Create and share interactive dashboards using Redash**
 
 ## What is this book about?
 Data exploration and visualization is vital to Business Intelligence, the backbone of almost every enterprise or organization. Redash is a querying and visualization tool developed to simplify how marketing and business development departments are exposed to data. If you want to learn to create interactive dashboards with Redash, explore different visualizations, and share the insights with your peers, then this is the ideal book for you.
