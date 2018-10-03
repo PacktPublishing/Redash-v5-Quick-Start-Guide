@@ -1,8 +1,8 @@
-# Redash Quick Start Guide
+# Redash Quick v5 Start Guide
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/redash-v5-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788996167"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10333.png" alt="Redash Quick Start Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/redash-v5-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788996167"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10333.png" alt="Redash Quick v5 Start Guide" height="256px" align="right"></a>
 
-This is the code repository for Redash Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/redash-v5-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788996167), published by Packt.
+This is the code repository for [Redash Quick v5 Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/redash-v5-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788996167), published by Packt.
 
 **Create and share interactive dashboards using Redash**
 
